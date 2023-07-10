@@ -1,5 +1,3 @@
-# Certificate
-
 <h1>Certificate Catogories</h1>
 <h3>Chapter 1: CEA (CEA Online Academy)</h3>
 <ul>
