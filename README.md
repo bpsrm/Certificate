@@ -54,3 +54,10 @@
     <a href="https://github.com/bpsrm/Certificate/blob/main/Certificate_CodingThailand_Atbash-Caesar.png">การถอดรหัสข้อมูล Atbash และ Caesar</a>
   </li>
 </ul>
+
+<h3>Chapter 6: Coursera</h3>
+<ul>
+  <li>
+    <a href="https://github.com/bpsrm/Certificate/blob/main/Certificate_Coursera_AI-For-Everyone.jpg">AI For Everyone</a>
+  </li>
+</ul>
