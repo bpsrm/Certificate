@@ -55,7 +55,7 @@
   </li>
 </ul>
 
-<h3>Chapter 6: Coursera</h3>
+### Chapter 6: Coursera
 <ul>
   <li>
     <a href="https://github.com/bpsrm/Certificate/blob/main/Certificate_Coursera_AI-For-Everyone.jpg">AI For Everyone</a>
