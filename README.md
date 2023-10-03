@@ -1,5 +1,5 @@
-<h1>Certificate Catogories</h1>
-<h3>Chapter 1: CEA (CEA Online Academy)</h3>
+# Certificate Catogories
+### Chapter 1: CEA (CEA Online Academy)
 <ul>
   <li>
     <a href="https://github.com/bpsrm/Certificate/blob/main/Certificate_CEA_Creative-Mindset.png" target="_blank">Creative Mindset</a>
@@ -24,7 +24,7 @@
   </li>
 </ul>
 
-<h3>Chapter 2: SET (The Stock Exchange of Thailand)</h3>
+### Chapter 2: SET (The Stock Exchange of Thailand)
 <ul>
   <li>
     <a href="https://github.com/bpsrm/Certificate/blob/main/Certificate_SET.jpg" target="_blank">อาชีพยุคใหม่ ทำอะไรแล้วปัง</a>
@@ -34,21 +34,21 @@
   </li>
 </ul>
 
-<h3>Chapter 3: Skooldio</h3>
+### Chapter 3: Skooldio
 <ul>
   <li>
     <a href="https://github.com/bpsrm/Certificate/blob/main/Certificate_Skooldio_SQL-for-Data-Analytics.png">Data Analytics</a>
   </li>
 </ul>
 
-<h3>Chapter 4: HACKaTHAILAND</h3>
+### Chapter 4: HACKaTHAILAND
 <ul>
   <li>
     <a href="https://github.com/bpsrm/Certificate/blob/main/Certificate_HACKaTHAILAND_Web-Application-Development.jpg">Web Application Development</a>
   </li>
 </ul>
 
-<h3>Chapter 5: CodingThailand</h3>
+### Chapter 5: CodingThailand
 <ul>
   <li>
     <a href="https://github.com/bpsrm/Certificate/blob/main/Certificate_CodingThailand_Atbash-Caesar.png">การถอดรหัสข้อมูล Atbash และ Caesar</a>
